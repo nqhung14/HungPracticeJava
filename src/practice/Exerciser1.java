@@ -15,7 +15,7 @@ public class Exerciser1 {
                 count++;
             }
         }
-        System.out.println("Number of a is:"+count);
+        System.out.println("Number of a is:" + count);
     }
 }
 
